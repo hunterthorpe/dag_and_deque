@@ -35,6 +35,8 @@ then the resulting deque would be,
     Top 4 3 5 1 2 Bottom
 This function runs in O(n) time, where n is the number of elements in the deque.
 
+    DAG and Topological Sort
+
     Problem 3 A
 You are provided with a Directed Acyclic Graph representing a map
 of the trees on the ski slope with the possible routes between trees. A park ranger is attempted to trim 
@@ -59,6 +61,7 @@ My function performs the following steps:
 • Return true or false depending on the result of your algorithm. Note that true and false
 are of type bool, which is included from the stdbool.h library.
 The following ski slope is an example of the input format your program will be given.
+
     4 8
     0 1
     0 3
