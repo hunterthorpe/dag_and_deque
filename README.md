@@ -35,7 +35,7 @@ then the resulting deque would be,
     Top 4 3 5 1 2 Bottom
 This function runs in O(n) time, where n is the number of elements in the deque.
 
-    DAG and Topological Sort
+DAG and Topological Sort
 
     Problem 3 A
 You are provided with a Directed Acyclic Graph representing a map
